@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Rim's AutoScore   Krnl/Fluxus Edition", "Ocean")
+local Window = Library.CreateLib("Rim's AutoScore   SynapseX/Krnl/Fluxus Edition  RB Hub", "Ocean")
 local Tab = Window:NewTab("AutoScore")
 local Section = Tab:NewSection("Westlake AutoScore")
 Section:NewLabel("Welcome!")

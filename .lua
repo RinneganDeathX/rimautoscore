@@ -110,7 +110,7 @@ end)
 local Tab = Window:NewTab("Credits")
 local Section = Tab:NewSection("Script By:")
 Section:NewButton("Credits", "By: Scripto#0001", function()
-   game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Script By:", Text = "Scripto#0001!"})
+   game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Script By:", Text = "Krnl#0001!"})
      setclipboard("https://discord.gg/z9tAsjdETz")
 end)
 
